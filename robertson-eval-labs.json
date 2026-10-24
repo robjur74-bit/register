@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "robjur74-bit",
+    "email": "robjur74@gmail.com"
+  },
+  "domain": "robertson-eval-labs",
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
